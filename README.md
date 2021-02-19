@@ -5,7 +5,7 @@ Python Tutorial for Begineers
 
 
 By
-Swapnil Gaikwad
+Mayur kudale
 
 Sources-
 
